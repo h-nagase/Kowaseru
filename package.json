@@ -37,7 +37,7 @@
     "prismy": "^3.0.0-11",
     "prismy-cookie": "^3.0.0-1",
     "prismy-session": "^3.0.0-1",
-    "prismy-session-strategy-jwt-cookie": "^3.0.0-1",
+    "prismy-session-strategy-jwt-cookie": "^3.0.0",
     "pug": "^3.0.2"
   }
 }
