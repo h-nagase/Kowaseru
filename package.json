@@ -35,7 +35,7 @@
     "mime": "^4.0.1",
     "pg": "^8.11.3",
     "prismy": "^3.0.0-11",
-    "prismy-cookie": "^3.0.0-1",
+    "prismy-cookie": "^3.0.0",
     "prismy-session": "^3.0.0-1",
     "prismy-session-strategy-jwt-cookie": "^3.0.0-1",
     "pug": "^3.0.2"
